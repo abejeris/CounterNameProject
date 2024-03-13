@@ -1,7 +1,9 @@
+import NameAge from './NameAge';
+
 function App() {
 	return (
 		<>
-			<p>hello world</p>
+			<NameAge />
 		</>
 	);
 }
